@@ -14,7 +14,7 @@ Early detection of diseases through simple blood tests is a crucial and accessib
 We want to use classification techniques on the proteomics outcomes of collected blood samples from i) Patients with cardiac atherosclerosis and non-metastatic prostate cancer; ii) Patients with cardiac atherosclerosis and metastatic prostate cancer; iii) Patients without cardiac atherosclerosis and with non-metastatic prostate cancer; and iv) Patients without cardiac atherosclerosis and with metastatic prostate cancer; and see whether there are proteomics features that can be used for identification and discrimination of each diseases.
 
 #### Data Sources
-Blood-based proteomics data by the use of nanomedicine protein corona
+Blood-based proteomics data by the use of nanomedicine protein corona; the data set is uploaded in the project file: "MM-Data_BUP_35Samples.xlsx"
 
 #### Methodology
 We use LASSO (Least Absolute Shrinkage and Selection Operator) to see the classification accuracy of each patient group.
@@ -26,9 +26,6 @@ Identifying important proteins that can be used in improving the classification 
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
 
 
 ##### Contact and Further Information
